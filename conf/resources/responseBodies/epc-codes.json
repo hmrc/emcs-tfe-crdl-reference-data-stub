@@ -1,0 +1,226 @@
+[
+  {
+    "code": "B000",
+    "description": "Beer",
+    "category": "B",
+    "categoryDescription": "Beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "code": "E200",
+    "description": "Vegetable and animal oils Products falling within CN codes 1507 to 1518, if these are intended for use as heating fuel or motor fuel (Article 20(1)(a))",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E300",
+    "description": "Mineral oils Products falling within CN codes 2707 10, 2707 20, 2707 30 and 2707 50 (Article 20(1)(b))",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E410",
+    "description": "Leaded petrol falling within CN codes 2710 12 31 and 2710 12 50 (Article 20(1)(c) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E420",
+    "description": "Unleaded petrol falling within CN codes 2710 12 31, 2710 12 41, 2710 12 45 and 2710 12 49 (Article 20(1)(c) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E430",
+    "description": "Gasoil, unmarked falling within CN codes 2710 19 42, 2710 19 44, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 16 and 2710 20 19 (Article 20(1)(c) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E440",
+    "description": "Gasoil, marked falling within CN codes 2710 19 42, 2710 19 44, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 16 and 2710 20 19 (Article 20(1)(c) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E450",
+    "description": "Kerosene, falling within CN code 2710 19 21 and unmarked kerosene falling within CN code 2710 19 25 (Article 20(1)(c) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E460",
+    "description": "Kerosene, marked falling within CN code 2710 19 25 (Article 20(1)(c) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E470",
+    "description": "Heavy fuel oil falling within CN codes 2710 19 62, 2710 19 66, 2710 19 67, 2710 20 32 and 2710 20 38 (Article 20(1)(c) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "code": "E480",
+    "description": "Products falling within CN codes 2710 12 21, 2710 12 25, 2710 19 29 and 2710 20 90 (only for products of which less than 90 % by volume (including losses) distils at 210 °C and 65 % or more by volume (including losses) distils at 250 °C by the ISO 3405 ...",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E490",
+    "description": "Products falling within CN codes 2710 12 11, 2710 12 15, 2710 12 70, 2710 12 90, 2710 19 11, 2710 19 15, 2710 19 31, 2710 19 35, 2710 19 51 and 2710 19 55. (Article 20(1)(c) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E500",
+    "description": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "code": "E600",
+    "description": "Saturated acyclic hydrocarbons Products falling within CN code 2901 10",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "code": "E700",
+    "description": "Cyclic hydrocarbons Products falling within CN codes 2902 20, 2902 30, 2902 41, 2902 42, 2902 43 and 2902 44",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E800",
+    "description": "Methanol (methyl alcohol) Products falling within CN code 2905 11 00, which are not of synthetic origin, if these are intended for use as heating fuel or motor fuel",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E910",
+    "description": "Fatty-acid mono-alkyl esters, containing by weight 96,5 % or more of esters (FAMAE) falling within CN code 3826 00 10 (Article 20(1)(h) of Directive 2003/96/EC)",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E920",
+    "description": "Products falling within CN codes 3824 99 86, 3824 99 92 (excluding anti-rust preparations containing amines as active constituents and inorganic composite solvents and thinners for varnishes and similar products), 3824 99 93, 3824 99 96 (excluding anti-...",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "E930",
+    "description": "Additives falling within CN codes 3811 11, 3811 19 00 and 3811 90 00",
+    "category": "E",
+    "categoryDescription": "Energy Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "I000",
+    "description": "Intermediate products",
+    "category": "I",
+    "categoryDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "code": "S200",
+    "description": "Spirituous beverages",
+    "category": "S",
+    "categoryDescription": "Ethyl alcohol and spirits",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "code": "S300",
+    "description": "Ethyl alcohol",
+    "category": "S",
+    "categoryDescription": "Ethyl alcohol and spirits",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "code": "S400",
+    "description": "Partially denatured alcohol",
+    "category": "S",
+    "categoryDescription": "Ethyl alcohol and spirits",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "code": "S500",
+    "description": "Other products containing ethyl alcohol",
+    "category": "S",
+    "categoryDescription": "Ethyl alcohol and spirits",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "code": "S600",
+    "description": "Completely denatured alcohol, falling within Article 20 of Directive 92/83/EEC, being alcohol which has been denatured and fulfils the conditions to benefit from the exemption provided for in Article 27(1)(a) of that Directive",
+    "category": "S",
+    "categoryDescription": "Ethyl alcohol and spirits",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "code": "T200",
+    "description": "Cigarettes and products treated as cigarettes",
+    "category": "T",
+    "categoryDescription": "Manufactured tobacco products",
+    "unitOfMeasureCode": 4
+  },
+  {
+    "code": "T300",
+    "description": "Cigars & cigarillos",
+    "category": "T",
+    "categoryDescription": "Manufactured tobacco products",
+    "unitOfMeasureCode": 4
+  },
+  {
+    "code": "T400",
+    "description": "Fine-cut tobacco for the rolling of cigarettes",
+    "category": "T",
+    "categoryDescription": "Manufactured tobacco products",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "code": "T500",
+    "description": "Smoking tobacco, other than fine-cut tobacco for the rolling of cigarettes and products treated as smoking tobacco other than fine-cut tobacco for the rolling of cigarettes",
+    "category": "T",
+    "categoryDescription": "Manufactured tobacco products",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "code": "V000",
+    "description": "Vaping",
+    "category": "V",
+    "categoryDescription": "Vaping Products",
+    "unitOfMeasureCode": 2
+  },
+  {
+    "code": "W200",
+    "description": "Still wine and still fermented beverages other than wine and beer",
+    "category": "W",
+    "categoryDescription": "Wine and fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "code": "W300",
+    "description": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "category": "W",
+    "categoryDescription": "Wine and fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  }
+]
