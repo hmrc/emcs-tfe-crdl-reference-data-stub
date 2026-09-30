@@ -1,0 +1,16 @@
+{
+  "22041091": {
+    "cnCode": "22041091",
+    "cnCodeDescription": "Asti spumante with a protected designation of origin (PDO)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  "22060031": {
+    "cnCode": "22060031",
+    "cnCodeDescription": "Sparkling cider and perry",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  }
+}

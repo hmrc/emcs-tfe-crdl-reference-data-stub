@@ -1,0 +1,877 @@
+[
+  {
+    "cnCode": "22042106",
+    "cnCodeDescription": "Wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; wine, otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar meas...; with a protected designation of origin (PDO)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042107",
+    "cnCodeDescription": "Wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; wine, otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar me...; with a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042108",
+    "cnCodeDescription": "Other varietal wines in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; other varietal wine otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar measured at a temper...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042109",
+    "cnCodeDescription": "Non-varietal wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; non-varietal wine otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar measured at a temperature...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042111",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Alsace in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042112",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Bordeaux in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042113",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Bourgogne in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042117",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Val de Loire in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042118",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Mosel in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042119",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Pfalz in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042122",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Rheinhessen in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042123",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Tokaj in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042124",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Lazio in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042126",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Toscana in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042127",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Trentino, Alto Adige and Friuli in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042128",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Veneto in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042131",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Sicilia in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042132",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Vinho Verde in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042134",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Penedés in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042136",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Rioja in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042137",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Valencia in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042138",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less, produced in the Community in a region other than Alsace, Bordeaux, Bourgogne, Val de Loire, ...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042142",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Bordeaux in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042143",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Bourgogne in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042144",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Beaujolais in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042146",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Vallée du Rhône in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042147",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Languedoc-Roussillon in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042148",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Val de Loire in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042161",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Sicilia in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042162",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Piemonte in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042166",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Toscana in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042167",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Trentino and Alto Adige in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042168",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Veneto in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042169",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Dão, Bairrada and Douro in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042171",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Navarra in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042174",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Penedés in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042176",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Rioja in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042177",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Valdepeñas in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042178",
+    "cnCodeDescription": "Wine,other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less, produced in the Community in a region other than Bordeaux, Bourgogne, Beaujolais...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042179",
+    "cnCodeDescription": "White wine, produced in the Community, with a protected geographical indication (PGI) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042180",
+    "cnCodeDescription": "Wine, other than white, produced in the Community, with a protected geographical indication (PGI) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042181",
+    "cnCodeDescription": "White varietal wine, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less, other than wine with a protected designation of origin (PDO) or a protected geographical indication ...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042182",
+    "cnCodeDescription": "Varietal wine, other than white, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less, other than wine with a protected designation of origin (PDO) or a protected geographical...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042183",
+    "cnCodeDescription": "Non-varietal white wine, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042184",
+    "cnCodeDescription": "Non-varietal wine, other than white, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042185",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042186",
+    "cnCodeDescription": "Sherry wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042187",
+    "cnCodeDescription": "Marsala wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042188",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042189",
+    "cnCodeDescription": "Port wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042190",
+    "cnCodeDescription": "Wine of an actual alcoholic strength by volume exceeding 15% vol in containers holding 2 litres or less, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other than Madeira and Setubal ...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042191",
+    "cnCodeDescription": "Wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042193",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042194",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042195",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042196",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042197",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042198",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042210",
+    "cnCodeDescription": "Wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; wine, otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar measured at a temperature of 20°C, in containers h...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042222",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Bordeaux in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042223",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Bourgogne (Burgundy) in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042224",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Beaujolais in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042226",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Vallée du Rhône in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042227",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Languedoc-Roussillon in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042228",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Val de Loire (Loire Valley) in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042232",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Piemonte (Piedmont) in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042233",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Tokaj in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042238",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, produced in the Community in a region other than Bordeaux, Bou...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042278",
+    "cnCodeDescription": "Wine,other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, produced in the Community in a region other than B...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042279",
+    "cnCodeDescription": "White wine, produced in the Community, with a protected geographical indication (PGI) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042280",
+    "cnCodeDescription": "Wine, other than white, produced in the Community, with a protected geographical indication (PGI) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042281",
+    "cnCodeDescription": "White varietal wine, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, other than wine with a protected designation of origin (PDO) or a prot...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042282",
+    "cnCodeDescription": "Varietal wine, other than white, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, other than wine with a protected designation of origin (PD...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042283",
+    "cnCodeDescription": "Non varietal white wine, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042284",
+    "cnCodeDescription": "Non varietal wine, other than white, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042285",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042286",
+    "cnCodeDescription": "Sherry wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042288",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042290",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other t...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042291",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042293",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042294",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042295",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042296",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042297",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042298",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042910",
+    "cnCodeDescription": "Wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; wine, otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar measured at a temperature of 20°C, in containers h...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042922",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Bordeaux in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042923",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Bourgogne (Burgundy) in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042924",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Beaujolais in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042926",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Vallée du Rhône in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042927",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Languedoc-Roussillon in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042928",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Val de Loire (Loire Valley) in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042932",
+    "cnCodeDescription": "Wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. produced in Piemonte (Piedmont) in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042938",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 10 litres, produced in the Community in a region other than Bordeaux, Bourgogne (Burgundy), Beaujola...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042978",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 10 litres, produced in the Community in a region other than Bordeaux, Bourgogne (Burgun...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042979",
+    "cnCodeDescription": "White wine, produced in the Community, with a protected geographical indication (PGI) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042980",
+    "cnCodeDescription": "Wine, other than white, produced in the Community, with a protected geographical indication (PGI) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042981",
+    "cnCodeDescription": "White varietal wine, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 10 litres, other than wine with a protected designation of origin (PDO) or a protected geographical indicati...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042982",
+    "cnCodeDescription": "Varietal wine, other than white, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 10 litres, other than wine with a protected designation of origin (PDO) or a protected geographi...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042983",
+    "cnCodeDescription": "Non varietal white wine, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042984",
+    "cnCodeDescription": "Non varietal wine, other than white, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042985",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042986",
+    "cnCodeDescription": "Sherry wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042988",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042990",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other than Madeira and...",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042991",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042993",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042994",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042995",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042996",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042997",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042998",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22043010",
+    "cnCodeDescription": "Grape must in fermentation or with fermentation arrested otherwise than by the addition of alcohol",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22043096",
+    "cnCodeDescription": "Concentrated grape must of a density exceeding 1.33 g/cm3 at 20° C and of an actual strength exceeding 1% vol.",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22043098",
+    "cnCodeDescription": "Not concentrated grape must of a density exceeding 1.33 g/cm3 at 20° C and of an actual strength exceeding 1% vol.",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22051010",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength of 18% vol. or less in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22059010",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength of 18% vol. or less in containers holding more than 2 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060010",
+    "cnCodeDescription": "Piquette",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060031",
+    "cnCodeDescription": "Sparkling cider and perry",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060039",
+    "cnCodeDescription": "Other sparkling fermented beverages",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060051",
+    "cnCodeDescription": "Still cider and perry in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060059",
+    "cnCodeDescription": "Other still fermented beverages in containers holding 2 litres or less",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060081",
+    "cnCodeDescription": "Still cider and perry in containers holding more than 2 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060089",
+    "cnCodeDescription": "Other still fermented beverages in containers holding more than 2 litres",
+    "exciseProductCode": "W200",
+    "exciseProductCodeDescription": "Still wine and still fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  }
+]
