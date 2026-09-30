@@ -1,0 +1,9 @@
+{
+  "VG": "Bulk, gas (at 1031 mbar and 15°C)",
+  "NE": "Unpacked or unpackaged",
+  "VR": "Bulk, solid, granular (grains)",
+  "VL": "Bulk, liquid",
+  "VQ": "Bulk, liquefied gas(abn.temp/press)",
+  "VY": "Bulk, solid, fine (powders)",
+  "VO": "Bulk, solid, large (nodules)"
+}

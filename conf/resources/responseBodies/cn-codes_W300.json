@@ -1,0 +1,128 @@
+[
+  {
+    "cnCode": "22041011",
+    "cnCodeDescription": "Champagne with a protected designation of origin (PDO)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22041013",
+    "cnCodeDescription": "Cava with a protected designation of origin (PDO)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22041015",
+    "cnCodeDescription": "Prosecco with a protected designation of origin (PDO)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22041091",
+    "cnCodeDescription": "Asti spumante with a protected designation of origin (PDO)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22041093",
+    "cnCodeDescription": "Other sparkling wine with a protected designation of origin (PDO)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22041094",
+    "cnCodeDescription": "Sparkling wine with a protected geographical indication (PGI)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22041096",
+    "cnCodeDescription": "Other varietal sparkling wines",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22041098",
+    "cnCodeDescription": "Other sparkling wine",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042106",
+    "cnCodeDescription": "Wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; wine, otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar meas...; with a protected designation of origin (PDO)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042107",
+    "cnCodeDescription": "Wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; wine, otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar me...; with a protected geographical indication (PGI)",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042108",
+    "cnCodeDescription": "Other varietal wines in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; other varietal wine otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar measured at a temper...",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042109",
+    "cnCodeDescription": "Non-varietal wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; non-varietal wine otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar measured at a temperature...",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042210",
+    "cnCodeDescription": "Wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; wine, otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar measured at a temperature of 20°C, in containers h...",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042910",
+    "cnCodeDescription": "Wine in bottles with ‘mushroom’ stoppers held in place by ties or fastenings; wine, otherwise put up, with an excess pressure due to carbon dioxide in solution of not less than 1 bar but less than 3 bar measured at a temperature of 20°C, in containers h...",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22051010",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength of 18% vol. or less in containers holding 2 litres or less",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22059010",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength of 18% vol. or less in containers holding more than 2 litres",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060031",
+    "cnCodeDescription": "Sparkling cider and perry",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060039",
+    "cnCodeDescription": "Other sparkling fermented beverages",
+    "exciseProductCode": "W300",
+    "exciseProductCodeDescription": "Sparkling wine and sparkling fermented beverages other than wine and beer",
+    "unitOfMeasureCode": 3
+  }
+]
