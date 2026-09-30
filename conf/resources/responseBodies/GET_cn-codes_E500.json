@@ -1,0 +1,86 @@
+[
+  {
+    "cnCode": "27111211",
+    "cnCodeDescription": "Liquefied Propane of a purity not less than 99 % for use as a power or heating fuel",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111219",
+    "cnCodeDescription": "Liquefied Propane of a purity not less than 99 % for other purposes",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111291",
+    "cnCodeDescription": "Liquefied Propane of a purity less than 99 % for undergoing a specific process",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111293",
+    "cnCodeDescription": "Liquefied Propane of a purity less than 99 % for undergoing a chemical transformation",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111294",
+    "cnCodeDescription": "Liquefied Propane of a purity exceeding 90% but less than 99%",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111297",
+    "cnCodeDescription": "Liquefied propane of a purity not exceeding 90%",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111310",
+    "cnCodeDescription": "Liquefied Butanes for undergoing a specific process",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111330",
+    "cnCodeDescription": "Liquefied Butanes for undergoing a chemical transformation",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111391",
+    "cnCodeDescription": "Liquefied Butanes of a purity exceeding 90 % but of less than 95 %",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111397",
+    "cnCodeDescription": "Butanes with a purity not exceeding 90% or at or above 95%, which are not intended for undergoing a specific process",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111400",
+    "cnCodeDescription": "Ethylene, propylene, butylenes and butadiene liquefied",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "27111900",
+    "cnCodeDescription": "Petroleum gases etc., liquefied",
+    "exciseProductCode": "E500",
+    "exciseProductCodeDescription": "Liquified Petroleum gases (LPG) Products falling within CN codes 2711 (except 2711 11, 2711 21 and 2711 29)",
+    "unitOfMeasureCode": 1
+  }
+]

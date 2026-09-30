@@ -1,7 +1,14 @@
 
 # emcs-tfe-crdl-reference-data-stub
 
-This is a placeholder README.md for a new repository
+This service simulates the responses of emcs-tfe-crdl-reference-data.
+
+### Running the service
+
+```shell
+sbt run
+```
+The service runs on port 8321 by default.
 
 ### License
 

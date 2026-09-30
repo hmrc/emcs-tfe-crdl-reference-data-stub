@@ -1,0 +1,122 @@
+[
+  {
+    "countryCode": "AT",
+    "country": "Austria"
+  },
+  {
+    "countryCode": "BE",
+    "country": "Belgium"
+  },
+  {
+    "countryCode": "BG",
+    "country": "Bulgaria"
+  },
+  {
+    "countryCode": "CY",
+    "country": "Cyprus"
+  },
+  {
+    "countryCode": "CZ",
+    "country": "Czechia"
+  },
+  {
+    "countryCode": "DE",
+    "country": "Germany"
+  },
+  {
+    "countryCode": "DK",
+    "country": "Denmark"
+  },
+  {
+    "countryCode": "EE",
+    "country": "Estonia"
+  },
+  {
+    "countryCode": "EL",
+    "country": "Greece"
+  },
+  {
+    "countryCode": "ES",
+    "country": "Spain"
+  },
+  {
+    "countryCode": "FI",
+    "country": "Finland"
+  },
+  {
+    "countryCode": "FR",
+    "country": "France"
+  },
+  {
+    "countryCode": "GB",
+    "country": "United Kingdom"
+  },
+  {
+    "countryCode": "HR",
+    "country": "Croatia"
+  },
+  {
+    "countryCode": "HU",
+    "country": "Hungary"
+  },
+  {
+    "countryCode": "IE",
+    "country": "Ireland"
+  },
+  {
+    "countryCode": "IT",
+    "country": "Italy"
+  },
+  {
+    "countryCode": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "countryCode": "LU",
+    "country": "Luxembourg"
+  },
+  {
+    "countryCode": "LV",
+    "country": "Latvia"
+  },
+  {
+    "countryCode": "MT",
+    "country": "Malta"
+  },
+  {
+    "countryCode": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "countryCode": "PL",
+    "country": "Poland"
+  },
+  {
+    "countryCode": "PT",
+    "country": "Portugal"
+  },
+  {
+    "countryCode": "RO",
+    "country": "Romania"
+  },
+  {
+    "countryCode": "SE",
+    "country": "Sweden"
+  },
+  {
+    "countryCode": "SI",
+    "country": "Slovenia"
+  },
+  {
+    "countryCode": "SK",
+    "country": "Slovakia"
+  },
+  {
+    "countryCode": "TX",
+    "country": "TX"
+  },
+  {
+    "countryCode": "XI",
+    "country": "United Kingdom (Northern Ireland)"
+  }
+]

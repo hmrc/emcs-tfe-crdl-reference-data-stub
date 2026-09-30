@@ -1,0 +1,182 @@
+[
+  {
+    "code": "8",
+    "description": "Contract"
+  },
+  {
+    "code": "19",
+    "description": "Certificate of independent small producer of alcoholic beverages"
+  },
+  {
+    "code": "4",
+    "description": "Delivery note"
+  },
+  {
+    "code": "C624",
+    "description": "Form 302"
+  },
+  {
+    "code": "5",
+    "description": "CMR"
+  },
+  {
+    "code": "10",
+    "description": "Official record"
+  },
+  {
+    "code": "C667",
+    "description": "Laboratory analysis"
+  },
+  {
+    "code": "C622",
+    "description": "Certificate of customs status"
+  },
+  {
+    "code": "N720",
+    "description": "Consignment note CIM"
+  },
+  {
+    "code": "Y946",
+    "description": "Goods necessary for the official purposes of diplomatic or consular missions of Member States in the DPRK or international organisations enjoying immunities in accordance with international law, or to the personal effects of their staff (Art 10.3 of Regulation (EU) 2017/1509)"
+  },
+  {
+    "code": "C015",
+    "description": "V I 2 extract"
+  },
+  {
+    "code": "18",
+    "description": "SAD (Single Administrative Document)"
+  },
+  {
+    "code": "7",
+    "description": "Way Bill"
+  },
+  {
+    "code": "C652",
+    "description": "Accompanying documents for the carriage of wine products"
+  },
+  {
+    "code": "C014",
+    "description": "V I 1 document"
+  },
+  {
+    "code": "C651",
+    "description": "Electronic administrative document (e-AD), as referred to in Article 3(1) of Reg. (EC) No 684/2009"
+  },
+  {
+    "code": "C018",
+    "description": "V I 2 extract annotated in compliance with Regulation (EU) No 2018/273, Article 25 (2)"
+  },
+  {
+    "code": "C620",
+    "description": "T2LF document"
+  },
+  {
+    "code": "12",
+    "description": "Answer"
+  },
+  {
+    "code": "15",
+    "description": "Export Declaration"
+  },
+  {
+    "code": "11",
+    "description": "Request"
+  },
+  {
+    "code": "9",
+    "description": "Trader's Application"
+  },
+  {
+    "code": "Y042",
+    "description": "VAT identification number issued in the Member State of importation for tax representative"
+  },
+  {
+    "code": "N722",
+    "description": "Road list - SMGS"
+  },
+  {
+    "code": "13",
+    "description": "Fallback documents, Fallback Printout"
+  },
+  {
+    "code": "16",
+    "description": "Anticipated Export Record"
+  },
+  {
+    "code": "Y041",
+    "description": "VAT identification number of the customer who is liable for the VAT on the intra-Community acquisition of goods in accordance with Article 200 of the VAT Directive"
+  },
+  {
+    "code": "C664",
+    "description": "CN22 declaration according to Article 144 of the Regulation (UCC DA) No 2015/2446"
+  },
+  {
+    "code": "C017",
+    "description": "V I 1 document annotated in compliance with Regulation (EU) No 2018/273, Article 25 (2)"
+  },
+  {
+    "code": "C006",
+    "description": "Export permit (Council Decision (EU) 2017/37 (OJ L 11))"
+  },
+  {
+    "code": "C654",
+    "description": "Authorisation for products intended strictly for medical purposes"
+  },
+  {
+    "code": "6",
+    "description": "Bill of lading"
+  },
+  {
+    "code": "N730",
+    "description": "Road consignment note"
+  },
+  {
+    "code": "1",
+    "description": "e-AD"
+  },
+  {
+    "code": "17",
+    "description": "Exit Results"
+  },
+  {
+    "code": "C665",
+    "description": "CN23 declaration according to Article 144 of the Regulation (UCC DA) No 2015/2446"
+  },
+  {
+    "code": "14",
+    "description": "Photo"
+  },
+  {
+    "code": "0",
+    "description": "Other"
+  },
+  {
+    "code": "Y044",
+    "description": "Evidence that the imported goods are intended to be transported or dispatched from the Member State of importation to another Member State"
+  },
+  {
+    "code": "2",
+    "description": "SAAD or e-SAD"
+  },
+  {
+    "code": "A004",
+    "description": "Certificate of authenticity Tobacco"
+  },
+  {
+    "code": "C658",
+    "description": "Fallback Accompanying Document for movements of excise goods under suspension of excise duty (FAD), as referred to in Article 8(1) Reg. (EC) No 684/2009"
+  },
+  {
+    "code": "C659",
+    "description": "Prior written declaration"
+  },
+  {
+    "code": "3",
+    "description": "Invoice"
+  },
+  {
+    "code": "Y040",
+    "description": "VAT identification number issued in the Member State of importation for the importer designated or recognised under Article 201 of the VAT Directive as liable for payment of VAT"
+  }
+]

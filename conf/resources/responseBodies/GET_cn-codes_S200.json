@@ -1,0 +1,681 @@
+[
+  {
+    "cnCode": "22042185",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042186",
+    "cnCodeDescription": "Sherry wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042187",
+    "cnCodeDescription": "Marsala wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042188",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042189",
+    "cnCodeDescription": "Port wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042190",
+    "cnCodeDescription": "Wine of an actual alcoholic strength by volume exceeding 15% vol in containers holding 2 litres or less, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other than Madeira and Setubal ...",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042191",
+    "cnCodeDescription": "Wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042193",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042194",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042195",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042196",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042197",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042198",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042285",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042286",
+    "cnCodeDescription": "Sherry wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042288",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042290",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other t...",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042291",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042293",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042294",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042295",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042296",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042297",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042298",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042985",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042986",
+    "cnCodeDescription": "Sherry wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042988",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042990",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other than Madeira and...",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042991",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042993",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042994",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042995",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042996",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042997",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042998",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22051090",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength exceeding 18% vol. in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22059090",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength exceeding 18% vol. in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060010",
+    "cnCodeDescription": "Piquette",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060031",
+    "cnCodeDescription": "Sparkling cider and perry",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060039",
+    "cnCodeDescription": "Other sparkling fermented beverages",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060051",
+    "cnCodeDescription": "Still cider and perry in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060059",
+    "cnCodeDescription": "Other still fermented beverages in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060081",
+    "cnCodeDescription": "Still cider and perry in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060089",
+    "cnCodeDescription": "Other still fermented beverages in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082012",
+    "cnCodeDescription": "Cognac obtained by distilling grape wine in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082014",
+    "cnCodeDescription": "Armagnac obtained by distilling grape wine in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082016",
+    "cnCodeDescription": "Brandy de Jerez obtained by distilling grape wine in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082018",
+    "cnCodeDescription": "Brandy or Weinbrand obtained by distilling grape wine in containers holding 2 litres or less other than Brandy de Jerez",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082019",
+    "cnCodeDescription": "Spirits obtained by distilling grape wine in containers holding 2 litres or less other than Cognac, Armagnac and Brandy or Weinbrand",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082026",
+    "cnCodeDescription": "Grappa obtained by distilling grape marc in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082028",
+    "cnCodeDescription": "Spirits obtained by distilling grape marc in containers holding 2 litres or less other than Grappa",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082062",
+    "cnCodeDescription": "Cognac obtained by distilling grape wine in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082066",
+    "cnCodeDescription": "Brandy or Weinbrand obtained by distilling grape wine in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082069",
+    "cnCodeDescription": "Spirits obtained by distilling grape wine in contains holding more than 2 litres other than Cognac or Brandy or Weinbrand",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082086",
+    "cnCodeDescription": "Grappa obtained by distilling grape marc in contains holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22082088",
+    "cnCodeDescription": "Spirits obtained by distilling grape marc in contains holding more than 2 litres other than Grappa",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083011",
+    "cnCodeDescription": "Bourbon whiskey, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083019",
+    "cnCodeDescription": "Bourbon whiskey, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083030",
+    "cnCodeDescription": "Scotch whisky, single malt",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083041",
+    "cnCodeDescription": "Scotch whisky, blended malt whisky, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083049",
+    "cnCodeDescription": "Scotch whisky, blended malt whisky, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083061",
+    "cnCodeDescription": "Scotch whisky, single grain and blended grain whisky, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083069",
+    "cnCodeDescription": "Scotch whisky, single grain and blended grain whisky, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083071",
+    "cnCodeDescription": "Other Scotch blended whisky, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083079",
+    "cnCodeDescription": "Other Scotch blended whisky, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083082",
+    "cnCodeDescription": "Whiskey, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22083088",
+    "cnCodeDescription": "Whiskey, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22084011",
+    "cnCodeDescription": "Rum with a content of volatile substances other than ethyl and methyl alcohol equal to or exceeding 225 grams per hectolitre of pure alcohol in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22084031",
+    "cnCodeDescription": "Tafia of a value exceeding €7.9 per litre of pure alcohol in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22084039",
+    "cnCodeDescription": "Other tafia in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22084051",
+    "cnCodeDescription": "Rum with a content of volatile substances other than ethyl and methyl alcohol equal to or exceeding 225 grams per hectolitre of pure alcohol in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22084091",
+    "cnCodeDescription": "Tafia of a value exceeding €2 per litre of pure alcohol in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22084099",
+    "cnCodeDescription": "Other tafia in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22085011",
+    "cnCodeDescription": "Gin, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22085019",
+    "cnCodeDescription": "Gin, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22085091",
+    "cnCodeDescription": "Geneva, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22085099",
+    "cnCodeDescription": "Geneva, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22086011",
+    "cnCodeDescription": "Vodka of an alcoholic strength by volume of 45.4% vol. or less, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22086019",
+    "cnCodeDescription": "Vodka of an alcoholic strength by volume of 45.4% vol. or less, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22086091",
+    "cnCodeDescription": "Vodka of an alcoholic strength by volume of more than 45.4% vol., in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22086099",
+    "cnCodeDescription": "Vodka of an alcoholic strength by volume of more than 45.4% vol., in containers more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22087010",
+    "cnCodeDescription": "Liqueurs and cordials, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22087090",
+    "cnCodeDescription": "Liqueurs and cordials, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089011",
+    "cnCodeDescription": "Arrack, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089019",
+    "cnCodeDescription": "Arrack, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089033",
+    "cnCodeDescription": "Plum, pear or cherry spirit in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089038",
+    "cnCodeDescription": "Plum, pear or cherry spirit in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089041",
+    "cnCodeDescription": "Ouzo, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089045",
+    "cnCodeDescription": "Calvados, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089048",
+    "cnCodeDescription": "Spirit (excluding liqueurs) distilled from fruit, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089054",
+    "cnCodeDescription": "Tequila, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089056",
+    "cnCodeDescription": "Spirit (excluding liqueurs), in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089069",
+    "cnCodeDescription": "Spirituous beverages, in containers holding 2 litres or less",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089071",
+    "cnCodeDescription": "Spirit (excluding liqueurs) distilled from fruit, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089075",
+    "cnCodeDescription": "Tequila, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089077",
+    "cnCodeDescription": "Spirit (excluding liqueurs), in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22089078",
+    "cnCodeDescription": "Spirituous beverages, in containers holding more than 2 litres",
+    "exciseProductCode": "S200",
+    "exciseProductCodeDescription": "Spirituous beverages",
+    "unitOfMeasureCode": 3
+  }
+]
