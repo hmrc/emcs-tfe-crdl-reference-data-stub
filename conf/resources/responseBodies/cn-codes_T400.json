@@ -1,0 +1,37 @@
+[
+  {
+    "cnCode": "24029000",
+    "cnCodeDescription": "Cigars, cheroots, cigarillos and cigarettes not containing tobacco",
+    "exciseProductCode": "T400",
+    "exciseProductCodeDescription": "Fine-cut tobacco for the rolling of cigarettes",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "24031910",
+    "cnCodeDescription": "Smoking tobacco in immediate packing of a net content not exceeding 500 g",
+    "exciseProductCode": "T400",
+    "exciseProductCodeDescription": "Fine-cut tobacco for the rolling of cigarettes",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "24031990",
+    "cnCodeDescription": "Smoking tobacco, other",
+    "exciseProductCode": "T400",
+    "exciseProductCodeDescription": "Fine-cut tobacco for the rolling of cigarettes",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "24039100",
+    "cnCodeDescription": "‘Homogenised’ or ‘reconstituted’ tobacco",
+    "exciseProductCode": "T400",
+    "exciseProductCodeDescription": "Fine-cut tobacco for the rolling of cigarettes",
+    "unitOfMeasureCode": 1
+  },
+  {
+    "cnCode": "24039990",
+    "cnCodeDescription": "Other manufactured tobacco and tobacco substitutes",
+    "exciseProductCode": "T400",
+    "exciseProductCodeDescription": "Fine-cut tobacco for the rolling of cigarettes",
+    "unitOfMeasureCode": 1
+  }
+]

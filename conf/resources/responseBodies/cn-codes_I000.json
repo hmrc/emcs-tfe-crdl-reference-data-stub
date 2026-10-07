@@ -1,0 +1,338 @@
+[
+  {
+    "cnCode": "22042138",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less, produced in the Community in a region other than Alsace, Bordeaux, Bourgogne, Val de Loire, ...",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042181",
+    "cnCodeDescription": "White varietal wine, produced in the Community, of an actual alcoholic strength by volume not exceeding 15% vol. in containers holding 2 litres or less, other than wine with a protected designation of origin (PDO) or a protected geographical indication ...",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042185",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042186",
+    "cnCodeDescription": "Sherry wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042187",
+    "cnCodeDescription": "Marsala wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042188",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042189",
+    "cnCodeDescription": "Port wine of an alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042190",
+    "cnCodeDescription": "Wine of an actual alcoholic strength by volume exceeding 15% vol in containers holding 2 litres or less, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other than Madeira and Setubal ...",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042191",
+    "cnCodeDescription": "Wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding 2 litres or less, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042193",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042194",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042195",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042196",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042197",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042198",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042285",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042286",
+    "cnCodeDescription": "Sherry wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042288",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042290",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other t...",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042291",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 2 litres but not more than 10 litres, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042293",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042294",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042295",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042296",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042297",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042298",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding more than 2 litres but not more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042985",
+    "cnCodeDescription": "Madeira and Setubal muscatel wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042986",
+    "cnCodeDescription": "Sherry wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042988",
+    "cnCodeDescription": "Samos and Muscat de Lemnos wine of an actual alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres with a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042990",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres, produced in the Community, with a protected designation of origin (PDO) or a protected geographical indication (PGI) other than Madeira and...",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042991",
+    "cnCodeDescription": "Wine of an alcoholic strength by volume exceeding 15% vol. in containers holding more than 10 litres, produced in the Community, without a protected designation of origin (PDO) or a protected geographical indication (PGI)",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042993",
+    "cnCodeDescription": "White wine with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042994",
+    "cnCodeDescription": "Wine, other than white, with a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042995",
+    "cnCodeDescription": "Varietal white wine without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042996",
+    "cnCodeDescription": "Varietal wine, other than white, without a protected designation of origin (PDO) or a protected geographical indication (PGI), not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042997",
+    "cnCodeDescription": "Non-varietal white wine, not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22042998",
+    "cnCodeDescription": "Non-varietal wine, other than white, not produced in the Community, in containers holding more than 10 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22051010",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength of 18% vol. or less in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22051090",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength exceeding 18% vol. in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22059010",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength of 18% vol. or less in containers holding more than 2 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22059090",
+    "cnCodeDescription": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances of an actual alcoholic strength exceeding 18% vol. in containers holding more than 2 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060010",
+    "cnCodeDescription": "Piquette",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060031",
+    "cnCodeDescription": "Sparkling cider and perry",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060039",
+    "cnCodeDescription": "Other sparkling fermented beverages",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060051",
+    "cnCodeDescription": "Still cider and perry in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060059",
+    "cnCodeDescription": "Other still fermented beverages in containers holding 2 litres or less",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060081",
+    "cnCodeDescription": "Still cider and perry in containers holding more than 2 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  },
+  {
+    "cnCode": "22060089",
+    "cnCodeDescription": "Other still fermented beverages in containers holding more than 2 litres",
+    "exciseProductCode": "I000",
+    "exciseProductCodeDescription": "Intermediate products",
+    "unitOfMeasureCode": 3
+  }
+]

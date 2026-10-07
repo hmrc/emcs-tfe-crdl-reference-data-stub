@@ -1,0 +1,21 @@
+POST        /oracle/cn-code-information                uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.postCNCodeInfo
+
+GET         /oracle/packaging-types                    uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.getPackagingTypes(isCountable: Option[Boolean])
+
+POST        /oracle/packaging-types                    uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.postPackagingTypes
+
+GET         /oracle/wine-operations                    uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.getWineOperations
+
+POST        /oracle/wine-operations                    uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.postWineOperations
+
+GET         /oracle/member-states                      uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.getMemberStates
+
+GET         /oracle/member-states-and-countries        uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.getMemberStatesAndCountries
+
+GET         /oracle/transport-units                    uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.getTransportUnits
+
+GET         /oracle/type-of-document                   uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.getTypeOfDocument
+
+GET         /oracle/cn-codes/:exciseProductCode        uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.getCNCode(exciseProductCode: String)
+
+GET         /oracle/epc-codes                          uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers.EndpointsController.getExciseProductCodes
