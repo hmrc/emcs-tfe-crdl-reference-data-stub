@@ -16,6 +16,7 @@ lazy val microservice = Project("emcs-tfe-crdl-reference-data-stub", file("."))
   )
 
 libraryDependencies ++= Seq(
+  "io.circe" %% "circe-literal" % "0.14.17",
 )
 
 lazy val it = project

@@ -24,8 +24,7 @@ case class CnInformationRequest(items: List[CnInformationItem])
 object CnInformationRequest:
   given reads: Reads[CnInformationRequest] = Json.reads[CnInformationRequest]
 
-case class CnInformationItem(productCode: String, cnCode: String):
-  override def toString: String = s"$productCode-$cnCode"
+case class CnInformationItem(productCode: String, cnCode: String)
 
 object CnInformationItem:
   given Reads[CnInformationItem] = Json.reads[CnInformationItem]

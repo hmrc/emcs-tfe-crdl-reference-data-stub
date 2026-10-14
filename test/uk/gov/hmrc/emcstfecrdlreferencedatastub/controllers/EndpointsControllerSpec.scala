@@ -16,38 +16,17 @@
 
 package uk.gov.hmrc.emcstfecrdlreferencedatastub.controllers
 
-import org.mockito.Mockito.when
 import org.scalatest.matchers.should.Matchers
 import org.scalatest.wordspec.AnyWordSpec
-import org.scalatestplus.mockito.MockitoSugar.mock
 import play.api.http.Status
 import play.api.test.{FakeHeaders, FakeRequest, Helpers}
 import play.api.test.Helpers.*
 import uk.gov.hmrc.emcstfecrdlreferencedatastub.models.{CnInformationItem, CnInformationRequest}
-import uk.gov.hmrc.emcstfecrdlreferencedatastub.service.FileReader
-import uk.gov.hmrc.emcstfecrdlreferencedatastub.service.JsonFileReaderService
-
-import scala.util.Success
 
 class EndpointsControllerSpec extends AnyWordSpec with Matchers {
-  private val pathStem = "resources/responseBodies"
   private val urlStem = "/emcs-tfe-reference-data/oracle"
-  private val mockFileReader = mock[FileReader]
-  private val validJson = """{ "key": "value" }"""
-  when(mockFileReader.read(s"$pathStem/POST_cn-code-information_B000-22030010_B000-22060059.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/GET_cn-codes_B000.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/GET_epc-codes.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/GET_member-states-and-countries.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/GET_member-states.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/GET_packaging-types.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/GET_packaging-types_isCountable-true.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/POST_packaging-types_TY_BO.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/GET_type-of-document.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/GET_wine-operations.json")).thenReturn(Success(validJson))
-  when(mockFileReader.read(s"$pathStem/POST_wine-operations_2_3_7_9.json")).thenReturn(Success(validJson))
 
-  private val jsonFileReaderService = new JsonFileReaderService(mockFileReader)
-  private val controller = new EndpointsController(jsonFileReaderService, Helpers.stubControllerComponents())
+  private val controller = new EndpointsController(Helpers.stubControllerComponents())
 
   "POST cn-code-information" should {
     "return 200 for a valid request" in {
