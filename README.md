@@ -5,11 +5,10 @@ This service simulates the responses of emcs-tfe-crdl-reference-data.
 
 ### Compiling the service
 
-circe-literal seems to cause a stack overflow unless the stack size is increased, so you should export SBT_OPTS with a suitably large value before compiling:
+circe-literal seems to cause a stack overflow with the default stack size, so you should tell SBT to use a larger one:
 
 ```shell
-export SBT_OPTS="-Xss8M"
-sbt compile
+sbt -J-Xss16m compile
 ```
 
 ### Running the service
