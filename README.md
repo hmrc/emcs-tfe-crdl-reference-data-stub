@@ -16,7 +16,7 @@ sbt -J-Xss16m compile
 ```shell
 sbt run
 ```
-The service runs on port 8321 by default.
+The service runs on port 8322 by default.
 
 ### License
 
